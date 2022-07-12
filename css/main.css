@@ -680,7 +680,7 @@ footer {
     line-height: 21px;
 }
 
-.article__line {
+.article-line {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -774,7 +774,7 @@ footer {
     flex-direction: column;
 }
 
-.form__big>input {
+.forms__big>input {
     background: #F1F1F1;
     opacity: 0.5;
     border: 2px solid #285193;
@@ -813,7 +813,7 @@ footer {
     color: #FFFFFF;
     margin: 20px 0 0 0;
 }
-.form__small>input{
+.forms__small>input{
     width: 221px;
     height: 50px;
     margin: 20px 0 0 0;
@@ -827,7 +827,7 @@ footer {
 input[type="file"]{
     display: none;
 }
-.form__file{
+.forms__file{
     width: 221px;
     height: 50px;
     margin: 20px 0 0 0;
@@ -847,7 +847,7 @@ input[type="file"]{
     color: #888888;
 }
 
-.contact__us {
+.formings__contact__us {
     width: 510px;
     height: 300px;
     margin-top: 50px;
@@ -858,19 +858,19 @@ input[type="file"]{
     border-radius: 5px;
  }
 
-.contact__us>h2 {
+.formings__contact__us>h2 {
     display: flex;
     justify-content: flex-end;
 }
 
-.forms__area {
+.formings__area {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding: 25px 20px 20px 25px;
 }
 
-.form__left {
+.formings__left {
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 400;
@@ -879,23 +879,23 @@ input[type="file"]{
     color: #888888;
 }
 
-.form__left>ul>li+li {
+.formings__left>ul>li+li {
     margin: 30px 0;
 }
 
 
-.forms__right>ul>li+li {
+.formings__right>ul>li+li {
     margin: 20px 0;
 }
 
-.forms__right>ul>li {
+.formings__right>ul>li {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
     gap: 13px;
 }
 
-.forms__right__img {
+.formings__right__img {
     display: flex;
     flex-direction: row;
     gap: 13px;
@@ -905,7 +905,7 @@ input[type="file"]{
 
 
 
-.form__heading {
+.formings__heading {
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 700;
@@ -915,7 +915,7 @@ input[type="file"]{
     padding: 20px 25px 0 0;
 }
 
-.forms__button {
+.formings__button {
     background: #295091;
     border-radius: 5px;
     padding: 8px 12px;
@@ -927,7 +927,7 @@ input[type="file"]{
     width: 157px;
 }
 
-.forms__button a {
+.formings__button a {
     text-decoration: none;
     font-style: normal;
     font-weight: 400;
@@ -935,7 +935,7 @@ input[type="file"]{
     color: #FFFFFF;
 }
 
-.forms__links {
+.formings__links {
     text-decoration: none;
     font-style: normal;
     font-weight: 400;
